@@ -1,9 +1,27 @@
-body {
-    color: #444;
-    font-family: Arial, sans-serif;
+#map{
+  height:700px;
+  width: 100%;
 }
 
-.container {
-    width: 100%;
-    max-width: 960px;
+h1{
+  font-family: 'Merriweather Sans', sans-serif;
+  padding-top: 40px;
+}
+
+#text{
+  font-family: 'Merriweather Sans', sans-serif;
+  padding-bottom: 40px;
+  font-size: 32px;
+  text-align: justify;
+}
+
+#showU{
+  width: 400px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+}
+
+#showDistricts{
+  width: 400px;
+    margin-bottom: 40px;
 }
